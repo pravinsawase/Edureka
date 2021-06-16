@@ -1,3 +1,2 @@
 # Edureka
-This my first repository
-My first commit
+This my Main branch
